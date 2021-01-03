@@ -1,0 +1,15 @@
+.background{
+width:600px;
+height:500px;
+border:3px solid black;
+background-image:linear-gradient(pink,grey );
+
+}
+
+.background2{
+width:600px;
+height:500px;
+border:3px solid black;
+background-image:repeating-linear-gradient( green, blue10%, grey20%);
+float:right;
+}

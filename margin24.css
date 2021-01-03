@@ -1,0 +1,27 @@
+.background{
+width:600px;
+height:200px;
+border:3px solid black;
+background-image:url("hh.jpg");
+
+}
+
+.border{
+
+width:450px;
+height:70px;
+border:3px solid black;
+margin: 60px;
+background-color:pink;
+opacity: 0.8;
+}
+
+p{
+color:grey;
+}
+
+
+
+
+
+
