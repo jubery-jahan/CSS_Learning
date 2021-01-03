@@ -1,0 +1,12 @@
+
+h1{
+text-align:center;
+text-decoration:underline;
+color:green;
+text-decoration-color:red;
+text-decoration-style:wave;
+}
+p{
+text-indent:70px;
+text-align:justify;
+}

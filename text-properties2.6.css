@@ -1,0 +1,20 @@
+
+h1{
+text-align:center;
+text-decoration:underline;
+color:green;
+text-decoration-color:red;
+text-decoration-style:wave;
+text-transformation:uppercase;
+text-shadow:2px 3px red;
+}
+p{
+text-indent:70px;
+text-align:justify;
+letter-spacing:2px;
+word-spacing: 5px;
+line-height:50px;
+}
+a{
+text-decoration:none;
+}
