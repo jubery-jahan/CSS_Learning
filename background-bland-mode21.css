@@ -1,0 +1,13 @@
+.background{
+width:550px;
+height:700px;
+border:3px solid black;
+background-image:linear-gradient(pink,grey),url("d.jpg");
+background-blend-mode:hue;
+}
+
+
+
+
+
+
