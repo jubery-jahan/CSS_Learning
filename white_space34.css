@@ -1,0 +1,21 @@
+.background{
+white-space: nowrap;
+
+}
+
+
+.background2{
+white-space: pre;
+
+}
+
+.background3{
+white-space: pre-line;
+
+}
+
+.background{
+white-space:pre-nowrap;
+
+}
+
