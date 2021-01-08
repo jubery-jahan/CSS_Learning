@@ -1,0 +1,29 @@
+.background{
+border: 2px solid red;
+width:500px;
+height:300px;
+cursor: wait;
+}
+ 
+
+.background2{
+border: 2px solid red;
+width:500px;
+height:300px;
+cursor: scroll;
+}
+
+
+.background3{
+border: 2px solid red;
+width:500px;
+height:300px;
+cursor:copy ;
+}
+
+.background4{
+border: 2px solid red;
+width:500px;
+height:300px;
+cursor: ew-resize;
+}
