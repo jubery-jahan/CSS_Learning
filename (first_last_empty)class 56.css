@@ -1,0 +1,20 @@
+p:last-of-type
+{
+color:pink;
+}
+
+p:first-of-type
+{
+color:pink;
+}
+
+h1:last-of-type
+{
+color:grey;
+}
+div:empty
+{
+border:1px solid red;
+width:70%;
+height:20px;
+}
