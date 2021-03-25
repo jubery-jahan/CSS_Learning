@@ -1,0 +1,73 @@
+<html>
+<head>
+<style>
+.load{
+width:80px;
+height:80px;
+position:absolute;
+top:250px;
+left:600px;
+}
+.load .jub{
+width:33%;
+height:33%;
+background:grey;
+border-radius:20%;
+float:left;
+animation:jub 2s infinite ease-in-out;
+}
+.load .jub1{
+animation-delay:0.2s;
+}
+.load .jub2{
+animation-delay:0.3s;
+background-color:green;
+}
+.load .jub3{
+animation-delay:0.4s;
+background-color:purple;
+}
+.load .jub4{
+animation-delay:0.1s;
+background-color:red;
+}
+.load .jub5{
+animation-delay:0.2s;
+background-color:yellow;
+}
+.load .jub6{
+animation-delay:0.3s;
+background-color:pink;
+}
+.load .jub7{
+animation-delay:0.0s;
+background-color:green;
+}
+.load .jub8{
+animation-delay:0.1s;
+background-color:blue;
+}
+.load .jub9{
+animation-delay:0.2s;
+background-color:red;
+}
+@keyframes jub{
+0%,70%,100%{transform:scale3D(1,1,1);}
+35%{transform:scale3D(0,0,1);}
+}
+</style>
+</head>
+<body>
+<div class="load">
+<div class="jub jub1"></div>
+<div class="jub jub2"></div>
+<div class="jub jub3"></div>
+<div class="jub jub4"></div>
+<div class="jub jub5"></div>
+<div class="jub jub6"></div>
+<div class="jub jub7"></div>
+<div class="jub jub8"></div>
+<div class="jub jub9"></div>
+</div>
+</body>
+</html>
